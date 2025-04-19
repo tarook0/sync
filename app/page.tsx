@@ -206,7 +206,7 @@ export default function HomePage() {
                 </p>
               </div>
               <div className="relative h-[400px] rounded-lg overflow-hidden">
-                <Image src="/images/screenshot6.png" alt="Game story illustration" fill className="object-cover" />
+                <Image src="/images/15.png" alt="Game story illustration" fill className="object-cover" />
               </div>
             </div>
           </div>
